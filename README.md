@@ -25,7 +25,7 @@ Red utilizada:
 
 
 ### Diagrama de Topología
-![Topología del Laboratorio](topologia.png)
+Topologia.png
 
 
 
