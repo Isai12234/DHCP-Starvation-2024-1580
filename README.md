@@ -25,7 +25,8 @@ Red utilizada:
 
 
 ### Diagrama de Topología
-Topologia.png
+![Diagrama de Topología](Topologia.png)
+
 
 
 
