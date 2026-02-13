@@ -29,6 +29,11 @@ Desarrollar un script en Python utilizando Scapy para ejecutar un ataque DHCP St
 Red utilizada:  
 10.15.80.0/24  
 
+### Direccionamiento 
+
+Default gateway 10.15.80.0
+PC Kali Linux 10.15.80.3
+PC Window 10.15.80.2
 
 ### Diagrama de Topología
 ![Diagrama de Topología](Topologia.png)
