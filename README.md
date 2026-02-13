@@ -6,6 +6,12 @@ Matrícula: 2024-1580
 
 ---
 
+## Video demostrativo
+
+[Ver video demostrativo] (https://youtu.be/j-XN6hBOSqk?si=FO2LdQtP_8S63AQy)
+
+---
+
 ## 🎯 Objetivo
 
 Desarrollar un script en Python utilizando Scapy para ejecutar un ataque DHCP Starvation en un entorno controlado de laboratorio, demostrando cómo un atacante puede agotar el pool de direcciones IP del servidor DHCP.
